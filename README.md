@@ -1,0 +1,3 @@
+- Compile recursice.c and nonrecursive.c using a C compiler
+- When running either program they will look for the provided argument of a valid directory on the machine. 
+- The programs will traverse the provided directory and print to the command line a list of the files found in the directory, (and directories within that directory), sorted by filesize from smallest to largest. 
